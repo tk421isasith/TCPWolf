@@ -1,0 +1,7 @@
+C:\Users\wwstudent\source\repos\TCPWolf\TCPlistener\obj\Debug\TCPlistener.csprojResolveAssemblyReference.cache
+C:\Users\wwstudent\source\repos\TCPWolf\TCPlistener\obj\Debug\TCPlistener.csproj.CoreCompileInputs.cache
+C:\Users\wwstudent\source\repos\TCPWolf\TCPlistener\bin\Debug\TCPlistener.exe.config
+C:\Users\wwstudent\source\repos\TCPWolf\TCPlistener\bin\Debug\TCPlistener.exe
+C:\Users\wwstudent\source\repos\TCPWolf\TCPlistener\bin\Debug\TCPlistener.pdb
+C:\Users\wwstudent\source\repos\TCPWolf\TCPlistener\obj\Debug\TCPlistener.exe
+C:\Users\wwstudent\source\repos\TCPWolf\TCPlistener\obj\Debug\TCPlistener.pdb

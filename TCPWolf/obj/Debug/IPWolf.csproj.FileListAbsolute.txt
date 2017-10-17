@@ -1,0 +1,5 @@
+C:\Users\wwstudent\source\repos\TCPWolf\TCPWolf\obj\Debug\MainWindow.g.cs
+C:\Users\wwstudent\source\repos\TCPWolf\TCPWolf\obj\Debug\TCPWolf_MarkupCompile.cache
+C:\Users\wwstudent\source\repos\TCPWolf\TCPWolf\obj\Debug\TCPWolf_MarkupCompile.lref
+C:\Users\wwstudent\source\repos\TCPWolf\TCPWolf\obj\Debug\IPWolf.csprojResolveAssemblyReference.cache
+C:\Users\wwstudent\source\repos\TCPWolf\TCPWolf\obj\Debug\App.g.cs
